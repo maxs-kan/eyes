@@ -1,0 +1,6 @@
+imageio==2.9.0
+joblib==0.15.1
+numpy==1.20.3
+pytorch-lamb==1.0.0
+torch==1.7.1
+torchvision==0.6.0a0+35d732a
